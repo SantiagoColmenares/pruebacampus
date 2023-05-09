@@ -1,0 +1,69 @@
+{
+  "reclutas": [
+    {
+      "nombre": "santiago",
+      "edad": "32",
+      "telefono": "566456",
+      "email": "sdasd@sdf.com",
+      "direccion": "132136456",
+      "fechanac": "2023-05-22",
+      "cc": "12365465",
+      "fechaing": "2023-05-17",
+      "id": 1
+    },
+    {
+      "nombre": "santiago",
+      "edad": "32",
+      "telefono": "3162591790",
+      "email": "scolmenaresv23@gmail.com",
+      "direccion": "cra32",
+      "fechanac": "2002-01-14",
+      "cc": "1005260496",
+      "fechaing": "2019-01-31",
+      "id": 2
+    },
+    {
+      "nombre": "santiago",
+      "edad": "32",
+      "telefono": "3162591790",
+      "email": "scolmenaresv23@gmail.com",
+      "direccion": "cra32",
+      "fechanac": "2023-05-24",
+      "cc": "1005260496",
+      "fechaing": "2023-05-14",
+      "id": 3
+    },
+    {
+      "nombre": "santiago ",
+      "edad": "21",
+      "telefono": "3162591790",
+      "email": "scolmenaresv23@gmail.com",
+      "direccion": "cra32 88-73",
+      "fechanac": "2002-01-14",
+      "cc": "1005260496",
+      "fechaing": "2023-01-23",
+      "id": 4
+    },
+    {
+      "nombre": "Mosco",
+      "edad": "20",
+      "telefono": "131654654",
+      "email": "sdasd@sdf.com",
+      "direccion": "21321",
+      "fechanac": "3321-03-04",
+      "cc": "23456",
+      "fechaing": "2023-05-14",
+      "id": 5
+    }
+  ],
+  "team": [
+    {
+      "nombreteam": "sadf",
+      "traineraso": "asdasd",
+      "id": 1
+    }
+  ],
+  "skill": [],
+  "mSkill": [],
+  "evaluacion": []
+}

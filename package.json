@@ -1,0 +1,20 @@
+{
+  "name": "prueba-campus",
+  "version": "1.0.0",
+  "description": "Prueba Apis y Json server Campus /* const guardar = document.querySelector(\"#guardarDatos\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoColmenaresCampus/prueba-campus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoColmenaresCampus/prueba-campus/issues"
+  },
+  "homepage": "https://github.com/SantiagoColmenaresCampus/prueba-campus#readme"
+}

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-image: url(../images/1059616-scaled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#navbarSupportedContent a:hover{
+    transition: .7s;
+    transform: scale(1.1);
+    color: red;
+}
+
+#navbarSupportedContent a{
+    display: flex;
+    justify-content: space-between;
+}
+
